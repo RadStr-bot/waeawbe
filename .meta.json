@@ -1,0 +1,19 @@
+{
+  "iri": "0fa4d770-2b92-40bf-b5f9-57360a286655",
+  "projectIri": "8482799d-2816-4904-aa32-04b2457fa4b4",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "b"
+    },
+    "description": {
+      "cs": ""
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
