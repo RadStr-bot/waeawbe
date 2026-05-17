@@ -1,6 +1,6 @@
 {
   "type": "http://dataspecer.com/resources/local/semantic-model",
-  "modelId": "dec46be0-24b7-428c-95c4-08197b3d225f",
+  "modelId": "ab04c001-05ce-40e3-8ff3-2ceb095149e7",
   "modelAlias": "b",
   "baseIri": "https://example.com/vocabulary#",
   "entities": {}
